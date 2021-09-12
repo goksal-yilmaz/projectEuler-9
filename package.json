@@ -1,0 +1,19 @@
+{
+  "name": "projecteuler-9",
+  "version": "1.0.0",
+  "description": "Bir Pisagor üçlüsü, a < b < c olmak üzere üç doğal sayı kümesidir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uchihaitachi0816/projectEuler-9.git"
+  },
+  "author": "\\\"Göksal Yılmaz\\\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uchihaitachi0816/projectEuler-9/issues"
+  },
+  "homepage": "https://github.com/uchihaitachi0816/projectEuler-9#readme"
+}
